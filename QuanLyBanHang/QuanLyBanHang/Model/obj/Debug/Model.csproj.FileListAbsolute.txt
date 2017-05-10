@@ -1,0 +1,10 @@
+E:\Solution C#\QuanLyBanHang\Model\bin\Debug\Model.dll
+E:\Solution C#\QuanLyBanHang\Model\bin\Debug\Model.pdb
+E:\Solution C#\QuanLyBanHang\Model\obj\Debug\Model.dll
+E:\Solution C#\QuanLyBanHang\Model\obj\Debug\Model.pdb
+E:\Solution C#\QuanLyBanHang\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Users\ADMIN\Downloads\QuanLyBanHang2\QuanLyBanHang\Model\bin\Debug\Model.dll
+C:\Users\ADMIN\Downloads\QuanLyBanHang2\QuanLyBanHang\Model\bin\Debug\Model.pdb
+C:\Users\ADMIN\Downloads\QuanLyBanHang2\QuanLyBanHang\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Users\ADMIN\Downloads\QuanLyBanHang2\QuanLyBanHang\Model\obj\Debug\Model.dll
+C:\Users\ADMIN\Downloads\QuanLyBanHang2\QuanLyBanHang\Model\obj\Debug\Model.pdb
