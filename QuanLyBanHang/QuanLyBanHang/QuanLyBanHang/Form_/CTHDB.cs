@@ -239,51 +239,13 @@ namespace QuanLyBanHang.Form_
         private void txtGia_MouseClick(object sender, MouseEventArgs e)
         {
            
-            if (txtHDB.Text != "" && cmbTenHH.SelectedValue.ToString()!="")
-            {
-
-                //cmbTenHH.ValueMember = "MaHH";
-                ChiTietPhieuBanModel hh = new ChiTietPhieuBanModel(cmbTenHH.SelectedValue.ToString());
-                
-                dt = hh_b.LayGiaBan(hh);
-                txtGia.Text = dt.Rows.ToString();
-            }
-            
-            else txtGia.Text = "0";
+           
         }   
-        //trongnva
-        private string  ConvertoString(dynamic obj)
-        {
-            string result = string.Empty;
-            try
-            {
-                result = (string)obj;
-            }
-            catch (Exception)
-            {
-                result = result; 
-            }
-            return result;
-        }
+       
+     
         private void cmbTenHH_SelectedIndexChanged(object sender, EventArgs e)
         {
-            #region Lấy ra mã hàng hóa
-            var selectedValue = cmbTenHH.SelectedValue;
-            string ma = ConvertoString(selectedValue);
-            if (ma == string.Empty)
-            {
-                DataTable dt = hh_b.LayDSHH();
-                ma = dt.Rows[0][0].ToString();
-            }
-            #endregion
-            #region Lấy ra giá của HH => đổ ra ô txtGia 
-
-            DataTable lstObj = hh_b.LayDSHH_TheoMa(ma.Trim());
-            if (lstObj.Rows.Count > 0)
-            {
-                txtGia.Text = lstObj.Rows[0][2].ToString();
-            }
-            #endregion
+           
            
 
         }
@@ -294,22 +256,21 @@ namespace QuanLyBanHang.Form_
         }
 
         private void txtSL_TextChanged(object sender, EventArgs e)
-        {
-            /*if (txtSL.Text != "")
-            {
-                //a = int.Parse(txtGia.Text.ToString());
-                //b = int.Parse(txtSL.Text.ToString().Trim());
-                txtThanhTien.Text = (int.Parse(txtGia.Text) * int.Parse(txtSL.Text)).ToString();
+        { 
 
-            }
-            else
-                txtThanhTien.Text = "0";*/
         }
 
         private void txtThanhTien_MouseClick(object sender, MouseEventArgs e)
         {
-            
-           
+            if (txtSL.Text != "")
+            {
+               
+                txtThanhTien.Text = (int.Parse(txtGia.Text) * int.Parse(txtSL.Text)).ToString();
+
+            }
+            else
+                txtThanhTien.Text = "0";
+
         }
     }
 }

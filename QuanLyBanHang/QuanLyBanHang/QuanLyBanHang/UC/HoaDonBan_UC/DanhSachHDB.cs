@@ -26,7 +26,7 @@ namespace QuanLyBanHang.UC.HoaDonBan_UC
         }
         public DanhSachHDB()
         {
-            
+
             InitializeComponent();
             InDS();
             cmbNV.DataSource = hh_b.LayDSNV();
@@ -36,21 +36,21 @@ namespace QuanLyBanHang.UC.HoaDonBan_UC
             cmbKH.DataSource = hh_b.LayDSKH();
             cmbKH.DisplayMember = "TenKH";
             cmbKH.ValueMember = "MaKH";
-            
+
             //HoaDonBanModel hdb = new HoaDonBanModel(txtMaHDB.Text);
             //txtTTien.Text = hh_b.TongTien(txtMaHDB.Text);
         }
         private void dgvHDB_Click(object sender, EventArgs e)
         {
-           
-             try
+
+            try
             {
                 DataGridViewRow dr = dgvHDB.SelectedRows[0];
                 txtMaHDB.Text = dr.Cells["MaHDB"].Value.ToString();
                 dtpNgayBan.Text = dr.Cells["NgayBan"].Value.ToString();
                 cmbNV.Text = dr.Cells["TenNV"].Value.ToString();
                 cmbKH.Text = dr.Cells["TenKH"].Value.ToString();
-               
+
                 //txtTTien.Text = dr.Cells["TongTien"].Value.ToString();
                 //string mahh = txtMaHDB.Text.ToString().Trim();
                 //HoaDonBanModel hh = new HoaDonBanModel(mahh);
@@ -71,7 +71,7 @@ namespace QuanLyBanHang.UC.HoaDonBan_UC
             cmbNV.Enabled = true;
             cmbKH.Enabled = true;
 
-           // txtTTien.Enabled = false;
+            // txtTTien.Enabled = false;
 
             btnThem.Enabled = false;
             btnSua.Enabled = false;
@@ -105,7 +105,7 @@ namespace QuanLyBanHang.UC.HoaDonBan_UC
             dtpNgayBan.Enabled = false;
             cmbNV.Enabled = false;
             cmbKH.Enabled = false;
-       
+
             // txtTTien.Enabled = false;
 
 
@@ -132,13 +132,13 @@ namespace QuanLyBanHang.UC.HoaDonBan_UC
             dtpNgayBan.Enabled = false;
             cmbNV.Enabled = false;
             cmbKH.Enabled = false;
-  
+
             //txtTTien.Enabled = false;
         }
 
         private void btnLuu_Click(object sender, EventArgs e)
         {
-            
+
 
             //CTHDB ds = new CTHDB();
             //ds.formLoad(CT);
@@ -147,11 +147,11 @@ namespace QuanLyBanHang.UC.HoaDonBan_UC
             {
                 try
                 {
-                    HoaDonBanModel hh = new HoaDonBanModel(txtMaHDB.Text, dtpNgayBan.Value, cmbNV.SelectedValue.ToString(),cmbKH.SelectedValue.ToString());
+                    HoaDonBanModel hh = new HoaDonBanModel(txtMaHDB.Text, dtpNgayBan.Value, cmbNV.SelectedValue.ToString(), cmbKH.SelectedValue.ToString());
                     hh_b.ThemHDB(hh);
                     MessageBox.Show("Thêm mới thành công!");
 
-                    HoaDonBanModel CT = new HoaDonBanModel(txtMaHDB.Text, dtpNgayBan.Value, cmbNV.SelectedValue.ToString(), cmbNV.Text,cmbKH.SelectedValue.ToString(),cmbKH.Text);
+                    HoaDonBanModel CT = new HoaDonBanModel(txtMaHDB.Text, dtpNgayBan.Value, cmbNV.SelectedValue.ToString(), cmbNV.Text, cmbKH.SelectedValue.ToString(), cmbKH.Text);
                     CTHDB ds = new CTHDB();
                     ds.formLoad(CT);
                     ds.Show();
@@ -180,7 +180,7 @@ namespace QuanLyBanHang.UC.HoaDonBan_UC
             {
                 try
                 {
-                    HoaDonBanModel hh = new HoaDonBanModel(txtMaHDB.Text, dtpNgayBan.Value, cmbNV.SelectedValue.ToString());
+                    HoaDonBanModel hh = new HoaDonBanModel(txtMaHDB.Text);
                     hh_b.XoaHDB(hh);
                     MessageBox.Show("Xóa thành công!");
                     InDS();
@@ -192,7 +192,7 @@ namespace QuanLyBanHang.UC.HoaDonBan_UC
             }
             txtMaHDB.Clear();
             cmbNV.SelectedValue = "";
-           // txtTTien.Clear();
+            // txtTTien.Clear();
 
 
             btnThem.Enabled = true;
@@ -204,11 +204,11 @@ namespace QuanLyBanHang.UC.HoaDonBan_UC
             txtMaHDB.Enabled = false;
             dtpNgayBan.Enabled = false;
             cmbNV.Enabled = false;
-           // txtTTien.Enabled = false;
+            // txtTTien.Enabled = false;
             checkButton = 0;
         }
 
-        
+
 
         private void btnXemCT_Click(object sender, EventArgs e)
         {
@@ -218,15 +218,15 @@ namespace QuanLyBanHang.UC.HoaDonBan_UC
             }
             else
             {
-               
-                HoaDonBanModel hh = new HoaDonBanModel(txtMaHDB.Text, dtpNgayBan.Value, cmbNV.SelectedValue.ToString(),cmbNV.Text,cmbKH.SelectedValue.ToString(),cmbKH.Text);
-                
+
+                HoaDonBanModel hh = new HoaDonBanModel(txtMaHDB.Text, dtpNgayBan.Value, cmbNV.SelectedValue.ToString(), cmbNV.Text, cmbKH.SelectedValue.ToString(), cmbKH.Text);
+
                 CTHDB ds = new CTHDB();
                 ds.formLoad(hh);
                 ds.Show();
             }
         }
-    
+
         private void button1_Click(object sender, EventArgs e)
         {
             string str = string.Format("MaHDB like '%{0}%'", txtTimKiem.Text);

@@ -22,7 +22,7 @@ namespace BusinessLayer
         {
             return kn.getData("select HOADONBAN.*,TenNV,TenKH from HOADONBAN,NHANVIEN,KHACHHANG where HOADONBAN.MaNV = NHANVIEN.MaNV and HOADONBAN.MaKH=KHACHHANG.MaKH", new SqlParameter[0], CommandType.Text);
         }
-    
+
         /*public DataTable TongTien(HoaDonBanModel hdb)
         {
             //SqlParameter[] sp = new SqlParameter[1];
@@ -50,7 +50,7 @@ namespace BusinessLayer
             sp[1] = new SqlParameter("@ngay", SqlDbType.DateTime);
             sp[2] = new SqlParameter("@manv", SqlDbType.Char, 10);
             sp[3] = new SqlParameter("@makh", SqlDbType.Char, 10);
-         
+
 
             sp[0].Value = hdb.MaHDB;
             sp[1].Value = hdb.NgayBan;

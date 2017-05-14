@@ -118,10 +118,11 @@ namespace QuanLyBanHang.UC.HoaDonBan_UC
             {
                 try
                 {
-                    HoaDonNhapModel hh = new HoaDonNhapModel(txtMaHDN.Text, dtpNgayNhap.Value, cmbNV.SelectedValue.ToString());
+                    HoaDonNhapModel hh = new HoaDonNhapModel(txtMaHDN.Text, dtpNgayNhap.Value, cmbNV.SelectedValue.ToString(), cmbNV.Text);
                     hh_b.SuaHDN(hh);
-                    InDS();
+
                     MessageBox.Show("Sửa thành công!");
+                    InDS();
                 }
                 catch (Exception ex)
                 {
@@ -132,10 +133,11 @@ namespace QuanLyBanHang.UC.HoaDonBan_UC
             {
                 try
                 {
-                    HoaDonNhapModel hh = new HoaDonNhapModel(txtMaHDN.Text, dtpNgayNhap.Value, cmbNV.SelectedValue.ToString());
+                    HoaDonNhapModel hh = new HoaDonNhapModel(txtMaHDN.Text);
                     hh_b.XoaHDN(hh);
-                    InDS();
+
                     MessageBox.Show("Xóa thành công!");
+                    InDS();
                 }
                 catch (Exception ex)
                 {

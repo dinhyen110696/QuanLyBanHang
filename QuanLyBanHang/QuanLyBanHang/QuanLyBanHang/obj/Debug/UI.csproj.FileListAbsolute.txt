@@ -75,3 +75,6 @@ C:\Users\ADMIN\Downloads\QuanLyBanHang2\QuanLyBanHang\QuanLyBanHang\obj\Debug\Qu
 E:\tt_nhom\tt nhóm\Thực-tập-nhóm_TH13\Thực tập nhóm_TH13\Source\TTNhom_QLBH\QuanLyBanHang\QuanLyBanHang\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe.config
 E:\tt_nhom\tt nhóm\Thực-tập-nhóm_TH13\Thực tập nhóm_TH13\Source\TTNhom_QLBH\QuanLyBanHang\QuanLyBanHang\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.exe
 E:\tt_nhom\tt nhóm\Thực-tập-nhóm_TH13\Thực tập nhóm_TH13\Source\TTNhom_QLBH\QuanLyBanHang\QuanLyBanHang\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.pdb
+C:\Users\ADMIN\Documents\GitHub\QuanLyBanHang\QuanLyBanHang\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe.config
+C:\Users\ADMIN\Documents\GitHub\QuanLyBanHang\QuanLyBanHang\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.exe
+C:\Users\ADMIN\Documents\GitHub\QuanLyBanHang\QuanLyBanHang\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.pdb

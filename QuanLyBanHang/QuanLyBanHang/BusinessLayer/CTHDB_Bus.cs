@@ -26,31 +26,31 @@ namespace BusinessLayer
         }
         public DataTable LayDSHH()
         {
-            return kn.getData("select MaHH,TenHH from HANGHOA " , new SqlParameter[0], CommandType.Text);
+            return kn.getData("select MaHH,TenHH from HANGHOA ", new SqlParameter[0], CommandType.Text);
         }
-        public DataTable LayDSHH_TheoMa(string ma)
-        {
-            string str = "select MaHH,TenHH ,dongia from HANGHOA where MaHH = '" + ma + "'";
-            return kn.getData(str, new SqlParameter[0], CommandType.Text);
-        }
-        public DataTable LayGiaBan(ChiTietPhieuBanModel ctpb)
-        {
-            SqlParameter[] sp = new SqlParameter[1];
-           
-            sp[0] = new SqlParameter("@mahh", SqlDbType.Char, 10);
-            sp[0].Value = ctpb.MaHH;
-            
-            return kn.getData("xem_gia", sp,CommandType.StoredProcedure);
-        }
-        
+        //public DataTable LayDSHH_TheoMa(string ma)
+        //{
+        //    string str = "select MaHH,TenHH ,dongia from HANGHOA where MaHH = '" + ma + "'";
+        //    return kn.getData(str, new SqlParameter[0], CommandType.Text);
+        //}
+        //public DataTable LayGiaBan(ChiTietPhieuBanModel ctpb)
+        //{
+        //    SqlParameter[] sp = new SqlParameter[1];
+
+        //    sp[0] = new SqlParameter("@mahh", SqlDbType.Char, 10);
+        //    sp[0].Value = ctpb.MaHH;
+
+        //    return kn.getData("xem_gia", sp,CommandType.StoredProcedure);
+        //}
+
         public void ThemCTPB(ChiTietPhieuBanModel ctpb)
         {
             SqlParameter[] sp = new SqlParameter[5];
             sp[0] = new SqlParameter("@mahdb", SqlDbType.Char, 10);
             sp[1] = new SqlParameter("@mahh", SqlDbType.Char, 10);
             sp[2] = new SqlParameter("@sl", SqlDbType.Char, 10);
-            sp[3] = new SqlParameter("@gia", SqlDbType.Money, 20);
-            sp[4] = new SqlParameter("@tt", SqlDbType.Money, 20);
+            sp[3] = new SqlParameter("@gia", SqlDbType.Money);
+            sp[4] = new SqlParameter("@tt", SqlDbType.Money);
             sp[0].Value = ctpb.MaHDB;
             sp[1].Value = ctpb.MaHH;
             sp[2].Value = ctpb.SoLuong;
@@ -74,9 +74,9 @@ namespace BusinessLayer
             SqlParameter[] sp = new SqlParameter[5];
             sp[0] = new SqlParameter("@mahdb", SqlDbType.Char, 10);
             sp[1] = new SqlParameter("@mahh", SqlDbType.Char, 10);
-            sp[2] = new SqlParameter("@sl", SqlDbType.NVarChar, 50);
-            sp[3] = new SqlParameter("@gia", SqlDbType.Money, 20);
-            sp[4] = new SqlParameter("@tt", SqlDbType.Money, 20);
+            sp[2] = new SqlParameter("@sl", SqlDbType.Char, 0);
+            sp[3] = new SqlParameter("@gia", SqlDbType.Money);
+            sp[4] = new SqlParameter("@tt", SqlDbType.Money);
             sp[0].Value = ctpb.MaHDB;
             sp[1].Value = ctpb.MaHH;
             sp[2].Value = ctpb.SoLuong;
@@ -95,11 +95,11 @@ namespace BusinessLayer
             kn.ThuTuc("sua_ctpb", sp);
         }
 
-        /*public DataTable LayDSHH(string v)
-        {
-            throw new NotImplementedException();
-            return kn.getdata("select MaHH,TenHH,dongia from HANGHOA " + v); //, new SqlParameter[0], CommandType.Text);
-        }*/
+        //public DataTable LayDSHH(string v)
+        //{
+        //    throw new NotImplementedException();
+        //    return kn.getdata("select MaHH,TenHH,dongia from HANGHOA " + v); //, new SqlParameter[0], CommandType.Text);
+        //}
 
         public void XoaCTPB(ChiTietPhieuBanModel ctpb)
         {

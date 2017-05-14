@@ -54,7 +54,7 @@ namespace QuanLyBanHang.Form_
             txtHDN.Text = hdn.MaHDN;
             dtpNgayNhap.Value = hdn.NgayNhap;
             cmbNhanVien.Text = hdn.TenNV;
-            txtTT.Text = hdn.tongtien;
+           
             InDS();
         }
 
@@ -223,14 +223,12 @@ namespace QuanLyBanHang.Form_
             txtThanhTien.Enabled = false;
             checkButton = 0;
         }
-        private int a, b;
+        
         private void txtThanhTien_MouseClick(object sender, MouseEventArgs e)
         {
             if (txtSL.Text != "" && txtGia.Text != "")
             {
-                a = int.Parse(txtGia.Text.ToString().Trim());
-                b = int.Parse(txtSL.Text.ToString().Trim());
-                txtThanhTien.Text = (a * b).ToString();
+                txtThanhTien.Text = (int.Parse(txtGia.Text) * int.Parse(txtSL.Text)).ToString();
             }
             else
                 txtThanhTien.Text = "0";
