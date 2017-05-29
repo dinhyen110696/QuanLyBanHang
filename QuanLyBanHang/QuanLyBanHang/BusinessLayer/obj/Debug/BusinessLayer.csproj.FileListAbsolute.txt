@@ -1,0 +1,30 @@
+E:\Solution C#\QuanLyBanHang\BusinessLayer\bin\Debug\BusinessLayer.dll
+E:\Solution C#\QuanLyBanHang\BusinessLayer\bin\Debug\BusinessLayer.pdb
+E:\Solution C#\QuanLyBanHang\BusinessLayer\bin\Debug\DAL.dll
+E:\Solution C#\QuanLyBanHang\BusinessLayer\bin\Debug\DAL.pdb
+E:\Solution C#\QuanLyBanHang\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+E:\Solution C#\QuanLyBanHang\BusinessLayer\obj\Debug\BusinessLayer.dll
+E:\Solution C#\QuanLyBanHang\BusinessLayer\obj\Debug\BusinessLayer.pdb
+E:\Solution C#\QuanLyBanHang\BusinessLayer\bin\Debug\Model.dll
+E:\Solution C#\QuanLyBanHang\BusinessLayer\bin\Debug\Model.pdb
+C:\Users\ADMIN\Downloads\QuanLyBanHang2\QuanLyBanHang\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\ADMIN\Downloads\QuanLyBanHang2\QuanLyBanHang\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\ADMIN\Downloads\QuanLyBanHang2\QuanLyBanHang\BusinessLayer\bin\Debug\DAL.dll
+C:\Users\ADMIN\Downloads\QuanLyBanHang2\QuanLyBanHang\BusinessLayer\bin\Debug\Model.dll
+C:\Users\ADMIN\Downloads\QuanLyBanHang2\QuanLyBanHang\BusinessLayer\bin\Debug\DAL.pdb
+C:\Users\ADMIN\Downloads\QuanLyBanHang2\QuanLyBanHang\BusinessLayer\bin\Debug\Model.pdb
+C:\Users\ADMIN\Downloads\QuanLyBanHang2\QuanLyBanHang\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+C:\Users\ADMIN\Downloads\QuanLyBanHang2\QuanLyBanHang\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\ADMIN\Downloads\QuanLyBanHang2\QuanLyBanHang\BusinessLayer\obj\Debug\BusinessLayer.pdb
+E:\tt_nhom\QuanLyBanHang2\QuanLyBanHang\BusinessLayer\bin\Debug\BusinessLayer.dll
+E:\tt_nhom\QuanLyBanHang2\QuanLyBanHang\BusinessLayer\bin\Debug\BusinessLayer.pdb
+E:\tt_nhom\QuanLyBanHang2\QuanLyBanHang\BusinessLayer\bin\Debug\DAL.dll
+E:\tt_nhom\QuanLyBanHang2\QuanLyBanHang\BusinessLayer\bin\Debug\Model.dll
+E:\tt_nhom\QuanLyBanHang2\QuanLyBanHang\BusinessLayer\bin\Debug\DAL.pdb
+E:\tt_nhom\QuanLyBanHang2\QuanLyBanHang\BusinessLayer\bin\Debug\Model.pdb
+E:\tt_nhom\QuanLyBanHang2\QuanLyBanHang\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+E:\tt_nhom\QuanLyBanHang2\QuanLyBanHang\BusinessLayer\obj\Debug\BusinessLayer.dll
+E:\tt_nhom\QuanLyBanHang2\QuanLyBanHang\BusinessLayer\obj\Debug\BusinessLayer.pdb
+E:\Thực tập nhóm\QuanLyBanHang\QuanLyBanHang\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+E:\Thực tập nhóm\QuanLyBanHang\QuanLyBanHang\BusinessLayer\obj\Debug\BusinessLayer.dll
+E:\Thực tập nhóm\QuanLyBanHang\QuanLyBanHang\BusinessLayer\obj\Debug\BusinessLayer.pdb
