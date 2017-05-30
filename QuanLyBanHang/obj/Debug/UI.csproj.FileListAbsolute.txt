@@ -1,0 +1,150 @@
+E:\Solution C#\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe.config
+E:\Solution C#\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe
+E:\Solution C#\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.pdb
+E:\Solution C#\QuanLyBanHang\QuanLyBanHang\bin\Debug\BusinessLayer.dll
+E:\Solution C#\QuanLyBanHang\QuanLyBanHang\bin\Debug\DAL.dll
+E:\Solution C#\QuanLyBanHang\QuanLyBanHang\bin\Debug\BusinessLayer.pdb
+E:\Solution C#\QuanLyBanHang\QuanLyBanHang\bin\Debug\DAL.pdb
+E:\Solution C#\QuanLyBanHang\QuanLyBanHang\obj\Debug\UI.csprojResolveAssemblyReference.cache
+E:\Solution C#\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.Properties.Resources.resources
+E:\Solution C#\QuanLyBanHang\QuanLyBanHang\obj\Debug\UI.csproj.GenerateResource.Cache
+E:\Solution C#\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.exe
+E:\Solution C#\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.pdb
+E:\Solution C#\QuanLyBanHang\QuanLyBanHang\obj\Debug\UI.form_.frmMain.resources
+E:\Solution C#\QuanLyBanHang\QuanLyBanHang\obj\Debug\UI.UCcontrol.NhanVien.DanhSach.resources
+E:\Solution C#\QuanLyBanHang\QuanLyBanHang\bin\Debug\Model.dll
+E:\Solution C#\QuanLyBanHang\QuanLyBanHang\bin\Debug\Model.pdb
+E:\Solution C#\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.UC.HangHoa_UC.DanhSachHH.resources
+E:\Solution C#\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.UC.Kho_UC.DanhSachKho.resources
+E:\Solution C#\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.UC.NhomHang_UC.DanhSachNhomHang.resources
+E:\Solution C#\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.UC.HoaDonBan_UC.DanhSachHDB.resources
+E:\Solution C#\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.UC.HoaDonBan_UC.DanhSachHDN.resources
+E:\Solution C#\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.Form_.CHITIETHDB.resources
+E:\Solution C#\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.UC.ChucNang_UC.DanhSachChucNang.resources
+E:\Solution C#\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.UC.TrangChu_UC.DanhMucUC.resources
+E:\Solution C#\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.UC.TrangChu_UC.ChucNang.resources
+E:\Solution C#\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.UC.NCC_UC.DanhSachNCC.resources
+E:\Solution C#\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.Form_.ThemCTHDB.resources
+E:\Solution C#\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.UC.TrangChu_UC.HeThongUC.resources
+E:\Solution C#\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.UC.TrangChu_UC.TroGiupUC.resources
+E:\Solution C#\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.UC.ChucNang_UC.DanhSachHeThong.resources
+E:\Solution C#\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.UC.ChucNang_UC.DanhSachThongKe.resources
+E:\Solution C#\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.UC.ChucNang_UC.DanhSachTroGiup.resources
+E:\Solution C#\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.Form_.FormDangNhap.resources
+E:\Solution C#\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.Form_.FormDoiMk.resources
+E:\Solution C#\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.Form_.FormSuaTaiKhoan.resources
+E:\Solution C#\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.Form_.FormTaiKhoan.resources
+C:\Users\ADMIN\Downloads\QuanLyBanHang2\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe.config
+C:\Users\ADMIN\Downloads\QuanLyBanHang2\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.exe
+C:\Users\ADMIN\Downloads\QuanLyBanHang2\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.pdb
+C:\Users\ADMIN\Downloads\QuanLyBanHang2\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe
+C:\Users\ADMIN\Downloads\QuanLyBanHang2\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.pdb
+C:\Users\ADMIN\Downloads\QuanLyBanHang2\QuanLyBanHang\QuanLyBanHang\bin\Debug\BusinessLayer.dll
+C:\Users\ADMIN\Downloads\QuanLyBanHang2\QuanLyBanHang\QuanLyBanHang\bin\Debug\Model.dll
+C:\Users\ADMIN\Downloads\QuanLyBanHang2\QuanLyBanHang\QuanLyBanHang\bin\Debug\DAL.dll
+C:\Users\ADMIN\Downloads\QuanLyBanHang2\QuanLyBanHang\QuanLyBanHang\bin\Debug\BusinessLayer.pdb
+C:\Users\ADMIN\Downloads\QuanLyBanHang2\QuanLyBanHang\QuanLyBanHang\bin\Debug\Model.pdb
+C:\Users\ADMIN\Downloads\QuanLyBanHang2\QuanLyBanHang\QuanLyBanHang\bin\Debug\DAL.pdb
+C:\Users\ADMIN\Downloads\QuanLyBanHang2\QuanLyBanHang\QuanLyBanHang\obj\Debug\UI.csprojResolveAssemblyReference.cache
+C:\Users\ADMIN\Downloads\QuanLyBanHang2\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.Form_.FormDangNhap.resources
+C:\Users\ADMIN\Downloads\QuanLyBanHang2\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.Form_.FormDoiMk.resources
+C:\Users\ADMIN\Downloads\QuanLyBanHang2\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.Form_.FormSuaTaiKhoan.resources
+C:\Users\ADMIN\Downloads\QuanLyBanHang2\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.Form_.FormTaiKhoan.resources
+C:\Users\ADMIN\Downloads\QuanLyBanHang2\QuanLyBanHang\QuanLyBanHang\obj\Debug\UI.form_.frmMain.resources
+C:\Users\ADMIN\Downloads\QuanLyBanHang2\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.Form_.ThemCTHDB.resources
+C:\Users\ADMIN\Downloads\QuanLyBanHang2\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.Properties.Resources.resources
+C:\Users\ADMIN\Downloads\QuanLyBanHang2\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.UC.ChucNang_UC.DanhSachChucNang.resources
+C:\Users\ADMIN\Downloads\QuanLyBanHang2\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.UC.ChucNang_UC.DanhSachHeThong.resources
+C:\Users\ADMIN\Downloads\QuanLyBanHang2\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.UC.ChucNang_UC.DanhSachThongKe.resources
+C:\Users\ADMIN\Downloads\QuanLyBanHang2\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.UC.ChucNang_UC.DanhSachTroGiup.resources
+C:\Users\ADMIN\Downloads\QuanLyBanHang2\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.UC.HangHoa_UC.DanhSachHH.resources
+C:\Users\ADMIN\Downloads\QuanLyBanHang2\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.UC.HoaDonBan_UC.DanhSachHDB.resources
+C:\Users\ADMIN\Downloads\QuanLyBanHang2\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.UC.HoaDonBan_UC.DanhSachHDN.resources
+C:\Users\ADMIN\Downloads\QuanLyBanHang2\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.UC.Kho_UC.DanhSachKho.resources
+C:\Users\ADMIN\Downloads\QuanLyBanHang2\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.UC.NCC_UC.DanhSachNCC.resources
+C:\Users\ADMIN\Downloads\QuanLyBanHang2\QuanLyBanHang\QuanLyBanHang\obj\Debug\UI.UCcontrol.NhanVien.DanhSach.resources
+C:\Users\ADMIN\Downloads\QuanLyBanHang2\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.UC.NhomHang_UC.DanhSachNhomHang.resources
+C:\Users\ADMIN\Downloads\QuanLyBanHang2\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.UC.TrangChu_UC.ChucNang.resources
+C:\Users\ADMIN\Downloads\QuanLyBanHang2\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.UC.TrangChu_UC.DanhMucUC.resources
+C:\Users\ADMIN\Downloads\QuanLyBanHang2\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.UC.TrangChu_UC.HeThongUC.resources
+C:\Users\ADMIN\Downloads\QuanLyBanHang2\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.UC.TrangChu_UC.TroGiupUC.resources
+C:\Users\ADMIN\Downloads\QuanLyBanHang2\QuanLyBanHang\QuanLyBanHang\obj\Debug\UI.csproj.GenerateResource.Cache
+C:\Users\ADMIN\Downloads\QuanLyBanHang2\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.Form_.CTHDB.resources
+C:\Users\ADMIN\Downloads\QuanLyBanHang2\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.Form_.CTHDN.resources
+C:\Users\ADMIN\Downloads\QuanLyBanHang2\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.UC.KhachHang_UC.DS_KH.resources
+E:\tt_nhom\QuanLyBanHang2\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe.config
+E:\tt_nhom\QuanLyBanHang2\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.exe
+E:\tt_nhom\QuanLyBanHang2\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.pdb
+E:\tt_nhom\QuanLyBanHang2\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe
+E:\tt_nhom\QuanLyBanHang2\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.pdb
+E:\tt_nhom\QuanLyBanHang2\QuanLyBanHang\QuanLyBanHang\bin\Debug\BusinessLayer.dll
+E:\tt_nhom\QuanLyBanHang2\QuanLyBanHang\QuanLyBanHang\bin\Debug\Model.dll
+E:\tt_nhom\QuanLyBanHang2\QuanLyBanHang\QuanLyBanHang\bin\Debug\DAL.dll
+E:\tt_nhom\QuanLyBanHang2\QuanLyBanHang\QuanLyBanHang\bin\Debug\BusinessLayer.pdb
+E:\tt_nhom\QuanLyBanHang2\QuanLyBanHang\QuanLyBanHang\bin\Debug\Model.pdb
+E:\tt_nhom\QuanLyBanHang2\QuanLyBanHang\QuanLyBanHang\bin\Debug\DAL.pdb
+E:\tt_nhom\QuanLyBanHang2\QuanLyBanHang\QuanLyBanHang\obj\Debug\UI.csprojResolveAssemblyReference.cache
+E:\tt_nhom\QuanLyBanHang2\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.Form_.CTHDB.resources
+E:\tt_nhom\QuanLyBanHang2\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.Form_.CTHDN.resources
+E:\tt_nhom\QuanLyBanHang2\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.Form_.FormDangNhap.resources
+E:\tt_nhom\QuanLyBanHang2\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.Form_.FormDoiMk.resources
+E:\tt_nhom\QuanLyBanHang2\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.Form_.FormSuaTaiKhoan.resources
+E:\tt_nhom\QuanLyBanHang2\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.Form_.FormTaiKhoan.resources
+E:\tt_nhom\QuanLyBanHang2\QuanLyBanHang\QuanLyBanHang\obj\Debug\UI.form_.frmMain.resources
+E:\tt_nhom\QuanLyBanHang2\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.Form_.ThemCTHDB.resources
+E:\tt_nhom\QuanLyBanHang2\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.Properties.Resources.resources
+E:\tt_nhom\QuanLyBanHang2\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.UC.ChucNang_UC.DanhSachChucNang.resources
+E:\tt_nhom\QuanLyBanHang2\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.UC.ChucNang_UC.DanhSachHeThong.resources
+E:\tt_nhom\QuanLyBanHang2\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.UC.ChucNang_UC.DanhSachThongKe.resources
+E:\tt_nhom\QuanLyBanHang2\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.UC.ChucNang_UC.DanhSachTroGiup.resources
+E:\tt_nhom\QuanLyBanHang2\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.UC.HangHoa_UC.DanhSachHH.resources
+E:\tt_nhom\QuanLyBanHang2\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.UC.HoaDonBan_UC.DanhSachHDB.resources
+E:\tt_nhom\QuanLyBanHang2\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.UC.HoaDonBan_UC.DanhSachHDN.resources
+E:\tt_nhom\QuanLyBanHang2\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.UC.KhachHang_UC.DS_KH.resources
+E:\tt_nhom\QuanLyBanHang2\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.UC.Kho_UC.DanhSachKho.resources
+E:\tt_nhom\QuanLyBanHang2\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.UC.NCC_UC.DanhSachNCC.resources
+E:\tt_nhom\QuanLyBanHang2\QuanLyBanHang\QuanLyBanHang\obj\Debug\UI.UCcontrol.NhanVien.DanhSach.resources
+E:\tt_nhom\QuanLyBanHang2\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.UC.NhomHang_UC.DanhSachNhomHang.resources
+E:\tt_nhom\QuanLyBanHang2\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.UC.TrangChu_UC.ChucNang.resources
+E:\tt_nhom\QuanLyBanHang2\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.UC.TrangChu_UC.DanhMucUC.resources
+E:\tt_nhom\QuanLyBanHang2\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.UC.TrangChu_UC.HeThongUC.resources
+E:\tt_nhom\QuanLyBanHang2\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.UC.TrangChu_UC.TroGiupUC.resources
+E:\tt_nhom\QuanLyBanHang2\QuanLyBanHang\QuanLyBanHang\obj\Debug\UI.csproj.GenerateResource.Cache
+E:\tt_nhom\QuanLyBanHang\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe.config
+E:\tt_nhom\QuanLyBanHang\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.exe
+E:\tt_nhom\QuanLyBanHang\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.pdb
+E:\tt_nhom\QuanLyBanHang\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe
+E:\tt_nhom\QuanLyBanHang\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.pdb
+E:\tt_nhom\QuanLyBanHang\QuanLyBanHang\QuanLyBanHang\bin\Debug\BusinessLayer.dll
+E:\tt_nhom\QuanLyBanHang\QuanLyBanHang\QuanLyBanHang\bin\Debug\Model.dll
+E:\tt_nhom\QuanLyBanHang\QuanLyBanHang\QuanLyBanHang\bin\Debug\DAL.dll
+E:\tt_nhom\QuanLyBanHang\QuanLyBanHang\QuanLyBanHang\bin\Debug\BusinessLayer.pdb
+E:\tt_nhom\QuanLyBanHang\QuanLyBanHang\QuanLyBanHang\bin\Debug\Model.pdb
+E:\tt_nhom\QuanLyBanHang\QuanLyBanHang\QuanLyBanHang\bin\Debug\DAL.pdb
+E:\tt_nhom\QuanLyBanHang\QuanLyBanHang\QuanLyBanHang\obj\Debug\UI.csprojResolveAssemblyReference.cache
+E:\tt_nhom\QuanLyBanHang\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.Form_.CTHDB.resources
+E:\tt_nhom\QuanLyBanHang\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.Form_.CTHDN.resources
+E:\tt_nhom\QuanLyBanHang\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.Form_.FormDangNhap.resources
+E:\tt_nhom\QuanLyBanHang\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.Form_.FormDoiMk.resources
+E:\tt_nhom\QuanLyBanHang\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.Form_.FormSuaTaiKhoan.resources
+E:\tt_nhom\QuanLyBanHang\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.Form_.FormTaiKhoan.resources
+E:\tt_nhom\QuanLyBanHang\QuanLyBanHang\QuanLyBanHang\obj\Debug\UI.form_.frmMain.resources
+E:\tt_nhom\QuanLyBanHang\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.Form_.ThemCTHDB.resources
+E:\tt_nhom\QuanLyBanHang\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.Properties.Resources.resources
+E:\tt_nhom\QuanLyBanHang\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.UC.ChucNang_UC.DanhSachChucNang.resources
+E:\tt_nhom\QuanLyBanHang\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.UC.ChucNang_UC.DanhSachHeThong.resources
+E:\tt_nhom\QuanLyBanHang\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.UC.ChucNang_UC.DanhSachThongKe.resources
+E:\tt_nhom\QuanLyBanHang\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.UC.ChucNang_UC.DanhSachTroGiup.resources
+E:\tt_nhom\QuanLyBanHang\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.UC.HangHoa_UC.DanhSachHH.resources
+E:\tt_nhom\QuanLyBanHang\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.UC.HoaDonBan_UC.DanhSachHDB.resources
+E:\tt_nhom\QuanLyBanHang\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.UC.HoaDonBan_UC.DanhSachHDN.resources
+E:\tt_nhom\QuanLyBanHang\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.UC.KhachHang_UC.DS_KH.resources
+E:\tt_nhom\QuanLyBanHang\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.UC.Kho_UC.DanhSachKho.resources
+E:\tt_nhom\QuanLyBanHang\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.UC.NCC_UC.DanhSachNCC.resources
+E:\tt_nhom\QuanLyBanHang\QuanLyBanHang\QuanLyBanHang\obj\Debug\UI.UCcontrol.NhanVien.DanhSach.resources
+E:\tt_nhom\QuanLyBanHang\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.UC.NhomHang_UC.DanhSachNhomHang.resources
+E:\tt_nhom\QuanLyBanHang\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.UC.TrangChu_UC.ChucNang.resources
+E:\tt_nhom\QuanLyBanHang\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.UC.TrangChu_UC.DanhMucUC.resources
+E:\tt_nhom\QuanLyBanHang\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.UC.TrangChu_UC.HeThongUC.resources
+E:\tt_nhom\QuanLyBanHang\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.UC.TrangChu_UC.TroGiupUC.resources
+E:\tt_nhom\QuanLyBanHang\QuanLyBanHang\QuanLyBanHang\obj\Debug\UI.csproj.GenerateResource.Cache
