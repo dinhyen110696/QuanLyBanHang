@@ -148,3 +148,6 @@ E:\tt_nhom\QuanLyBanHang\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.UC.
 E:\tt_nhom\QuanLyBanHang\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.UC.TrangChu_UC.HeThongUC.resources
 E:\tt_nhom\QuanLyBanHang\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.UC.TrangChu_UC.TroGiupUC.resources
 E:\tt_nhom\QuanLyBanHang\QuanLyBanHang\QuanLyBanHang\obj\Debug\UI.csproj.GenerateResource.Cache
+C:\Users\ADMIN\Documents\GitHub\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe.config
+C:\Users\ADMIN\Documents\GitHub\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.exe
+C:\Users\ADMIN\Documents\GitHub\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.pdb
